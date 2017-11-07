@@ -1,4 +1,4 @@
-# FullstackDeveloper-L1
+# Programming-Python-L1
 Mentorship template for learning programming in python Type = Level 1
 
 ## How to use this template?

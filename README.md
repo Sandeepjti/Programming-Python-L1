@@ -46,6 +46,12 @@ or the mentee's preferences.
     - [ ] List
     - [ ] Tuple
     - [ ] Dictionary
+    - [ ] Sets
+
+- [ ] Python Functions
+    - [ ] Functions
+    - [ ] Mathematical functions
+    - [ ] In-built python functions
 
 - [ ] Object oriented programming
     - [ ] Writing classes
@@ -56,9 +62,9 @@ or the mentee's preferences.
     - [ ] What are lambdas?
     - [ ] Writing programs using lambda.
 
-- [ ] Working with decorators
-    - [ ] Understand how decorators work
-    - [ ] Create first decorator
+- [ ] Working with I/O
+    - [ ] Reading and writing file in python
+    - [ ] Taking user input in python
 
 - [ ] Projects
     - [ ] Minor project 1 : Stand alone application. Ex: Calculator app.
